@@ -1,0 +1,14 @@
+Package: micsr.data
+Version: 0.1-0
+Date: 2024-11-06
+Title: Companion Data Package to Microeconometrics with R
+Author: Yves Croissant <yves.croissant@univ-reunion.fr>
+Maintainer: Yves Croissant <yves.croissant@univ-reunion.fr>
+Depends: R (>= 3.5.0)
+Description: The micsr package comes with a small set of data. This supplementary package provide all the data sets that are used in the book.
+VignetteBuilder: knitr
+License: GPL (>=2)
+LazyData: true
+URL: http://www.r-project.org
+NeedsCompilation: no
+Packaged: 2024-04-23 02:57:46 UTC; yves
